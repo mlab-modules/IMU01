@@ -1,0 +1,12 @@
+description: null
+github_branch: IMU01A
+github_repo: IMU01
+github_url: https://github.com/mlab-modules/IMU01
+homepage: false
+images:
+- doc/img/IMU01A_top_small.jpg
+- doc/img/IMU01A_top_big.jpg
+- doc/img/IMU01A_QRcode.png
+mark: 50
+tags: []
+title: IMU01
